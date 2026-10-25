@@ -1,0 +1,9 @@
+[package]
+name = "vello_repro"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+vello = "=0.11"
+pollster = "=1.0.1"
+image = "=0.25.10"
